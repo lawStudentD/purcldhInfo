@@ -70,7 +70,7 @@ For eg:
 
 ```
 
-If you don't know how to change name on Google Meet, then follow the steps as given in this [link](#https://www.lifewire.com/change-your-name-on-google-meet-5112077).
+If you don't know how to change name on Google Meet, then follow the steps as given in this [link](https://www.lifewire.com/change-your-name-on-google-meet-5112077).
 
 2) Teacher sounds strict, make sure not to get on her bad side.
 
