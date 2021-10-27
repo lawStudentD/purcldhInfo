@@ -70,9 +70,14 @@ For eg:
 
 ```
 
-If you don't know how to change name on Google Meet, then follow the steps as given in this [link](https://www.lifewire.com/change-your-name-on-google-meet-5112077).
+If you don't know how to change name on Google Meet, then follow the steps as given in this [link](https://www.lifewire.com/change-your-name-on-google-meet-5112077)
+
 
 2) Teacher sounds strict, make sure not to get on her bad side.
 
 
 ### Law of Torts
+
+**Reference Books:** Teacher instructed us to go to the library and check out various books related to the subject and choose one we find interesting and easier to understand.
+
+Personal Recommendation of teacher is ***R.K. Bangia : Law of Torts including Consumer Protection Laws***
