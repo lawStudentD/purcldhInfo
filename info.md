@@ -9,7 +9,7 @@ A repository to keep a centralised record of important information regarding LLB
 
 ## Subject wise information
 - [Family Law](#family-law)
-- [Constitutional Law](#contitutional-law)
+- [Constitutional Law](#constitutional-law)
 - [Law of Contract](#law-of-contract)
 - [Jurisprudence](#jurisprudence)
 - [Law of Torts](#law-of-torts)
