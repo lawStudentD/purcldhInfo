@@ -3,6 +3,7 @@ A repository to keep a centralised record of important information regarding LLB
 ### Table of Contents
 - [Important Notices](#important-notices)
 - [Subject wise information](#subject-wise-information)
+- [Important Documents](#important-documents)
 
 ## Important Notices
 - Submit examination form at office before **9 November, 2021**. 
@@ -81,3 +82,10 @@ If you don't know how to change name on Google Meet, then follow the steps as gi
 **Reference Books:** Teacher instructed us to go to the library and check out various books related to the subject and choose one we find interesting and easier to understand.
 
 Personal Recommendation of teacher is ***R.K. Bangia : Law of Torts including Consumer Protection Laws***
+
+
+## Important Documents
+
+- [Syllabus](https://github.com/lawStudentD/purcldhInfo/raw/main/Syllabus.pdf)
+
+- [Bare Act: Indian Contract Act, 1872](https://github.com/lawStudentD/purcldhInfo/raw/main/BareAct-Contract.pdf)
