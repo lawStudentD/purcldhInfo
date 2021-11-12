@@ -1,3 +1,5 @@
+![GitHub Views](https://komarev.com/ghpvc/?username=lawStudentD)
+
 A repository to keep a centralised record of important information regarding LLB 1st Semester Classes, held at PURC Ludhiana.
 
 ### Table of Contents
